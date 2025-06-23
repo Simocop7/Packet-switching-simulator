@@ -27,4 +27,4 @@ The simulation loop updates the network iteratively until all packets reach thei
 Requires Python ≥ 3.7. To execute:
 
 ```bash
-python pack_switching_latest.py
+python packet-switching-simulator.py
